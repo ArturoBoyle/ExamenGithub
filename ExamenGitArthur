@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Plantilla</title>
+</head>
+
+<body>
+	<div id="container">
+		<div class="center">
+		<header>
+			<h1>Nombre random 1</h1>
+		</header>
+	</div>
+
+		<nav>
+			<ul>
+				<li><a href="#">Historia</a></li>
+				<li><a href="#">Impacto económico</a></li>
+				<li><a href="#">Plataformas</a>
+					<ul>
+						<li><a href="#">Computadoras personales</a></li>
+						<li><a href="#">Consolas</a></li>
+						<li><a href="#">Consolas portátiles</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Videojuegos e Internet</a></li>
+			</ul>
+		</nav>
+		<main>
+
+			<section>
+				<p>
+					La industria de los videojuegos es el sector económico involucrado en el desarrollo,
+					la distribución, la mercadotecnia, la venta de videojuegos y del hardware asociado.
+				</p>
+				<p>
+					Engloba a docenas de disciplinas de trabajo y emplea a miles de personas alrededor
+					del mundo.
+				</p>
+			</section>
+
+
+			<article>
+				<h2>Historia</h2>
+				<p>
+					La historia de los videojuegos tiene su origen en la década de 1940 cuando,
+					tras el fin de la Segunda Guerra Mundial, las potencias vencedoras construyeron
+					las primeras supercomputadoras programables como el "ENIAC", de 1946.
+				</p>
+				<p>
+					Los primeros intentos por implementar programas de carácter lúdico
+					(inicialmente programas de ajedrez) no tardaron en aparecer,
+					y se fueron repitiendo durante las siguientes décadas.
+				</p>
+				<p>
+					Los primeros videojuegos modernos aparecieron en la década de los 60,
+					y desde entonces el mundo de los videojuegos no ha cesado de crecer y
+					desarrollarse con el único límite que le ha impuesto la creatividad de
+					los desarrolladores y la evolución de la tecnología.
+				</p>
+				<p>
+					En los últimos años, se asiste a una era de progreso tecnológico
+					dominada por una industria que promueve un modelo de consumo rápido
+					donde las nuevas superproducciones quedan obsoletas en pocos meses.
+				</p>
+				<p>
+					Nacido como un experimento en el ámbito académico, logró establecerse
+					como un producto de consumo de masas en tan sólo diez años, ejerciendo
+					un formidable impacto en las nuevas generaciones que veían los videojuegos
+					con un novedoso medio audiovisual que les permitiría protagonizar en adelante
+					sus propias historias.
+				</p>
+			</article>
+ 
+			<article>
+				<h2>Plataformas</h2>
+				<h3>Computadoras personales</h3>
+
+				<p>La plataforma PC fue muy popular en los noventa cuando aparecen los primeros PC
+					multimedia con CD-ROM.
+				</p>
+				<p>
+					Además los juegos para PC ofrecían en sus inicios un estímulo muy fuerte para todo
+					el sector ejecutivo y de oficina que tenía la PC como principal herramienta de trabajo.
+				</p>
+
+
+				<h3>Consolas</h3>
+
+				<p>Actualmente la industria de los juegos se mueve gracias a las plataformas
+					de <a href="#">Microsoft</a> (Xbox One, Xbox 360), las de <a href="#">Sony</a> (Playstation 4,
+					PSVita,
+					Playstation 3,
+					PSP, ) y las de <a href="#">Nintendo</a> (Wii U, Nintendo 3DS, Nintendo 2DS).
+				</p>
+
+				<p>El negocio no está en la venta de consolas, sino en la venta del software,
+					aunque las altas tasas de piratería afectan el negocio.
+				</p>
+
+				<p>Los fabricantes de consolas venden sus máquinas a costo o a pérdida y confían
+					en las ventas de los juegos para reponerse; de ahí la importancia de los juegos.
+				</p>
+
+				<p>
+					Tal es el caso de <a href="#">SEGA</a>, que dejó de producir consolas a principios del 2001.
+					Aunque algunos productores de software (como Electronic Arts) tienen los recursos
+					para construir una versión de un juego para todas las consolas, muchos elegirán
+					solo una.
+				</p>
+
+
+				<h3>Consolas portátiles</h3>
+				<p>
+					En sus inicios el mercado portátil estuvo dominado por <a href="#">Nintendo</a> y su dispositivo
+					Game Boy de 1989. Pero este gran éxito trajo nuevos competidores a este segmento.
+				</p>
+				<p>
+					La japonesa <a href="#">Sony</a> lanzó en marzo de 2004 su consola de videojuego portátil PSP
+					(PlayStation Portable) que utiliza un nuevo formato de disco (UMD),
+					que triplica la capacidad del tradicional CD-ROM, y en 2012 (2011 en Japón)
+					llegaría su sucesora, la PSVita, con una gráfica muy similar a la de PS3 y con
+					una tecnología muy novedosa.
+				</p>
+			</article>
+			<article>
+				<h2>Principales consolas en la historia</h2>
+				<table>
+					<tr>
+						<th>Compañía</th>
+						<th>Caseras y/o de mesa</th>
+						<th>Portátiles</th>
+					</tr>
+					<tr>
+						<td>Sony</td>
+						<td>PlayStation 4</td>
+						<td>PSP</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Playstation 3</td>
+						<td>PSP Go</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Playstation 2</td>
+						<td>PSVita</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>PlayStation</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Microsoft</td>
+						<td>Xbox One</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Xbox 360</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Xbox</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Nintendo</td>
+						<td>Wii U</td>
+						<td>Nintendo DS </td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Wii</td>
+						<td>Nintendo DSi</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>GameCube</td>
+						<td>Nintendo 3DS</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Nintendo 64</td>
+						<td>Nintendo 2DS</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Super Nintendo</td>
+						<td>Game & Watch</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td></td>
+						<td>Game Boy Advance</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td></td>
+						<td>Game Boy Color</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td></td>
+						<td>Game Boy</td>
+					</tr>
+					<tr>
+						<td>SEGA</td>
+						<td>Dreamcast</td>
+						<td>Game Gear</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Sega Saturn</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Sega Genesis</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Master System</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td>Atari</td>
+						<td>Atari 5200</td>
+						<td></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td>Atari 2600</td>
+						<td></td>
+					</tr>
+				</table>
+
+			</article>
+		</main>
+		
+	</div>
+</body>
+
+</html>
