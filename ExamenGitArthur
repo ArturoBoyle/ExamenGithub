@@ -10,14 +10,14 @@
 	<div id="container">
 		<div class="center">
 		<header>
-			<h1>Nombre random 1</h1>
+			<h1>Lorem</h1>
 		</header>
 	</div>
 
 		<nav>
 			<ul>
-				<li><a href="#">Nombre random 2</a></li>
-				<li><a href="#">Nombre random 3</a></li>
+				<li><a href="#">Ipsum</a></li>
+				<li><a href="#">Dolor</a></li>
 				<li><a href="#">Plataformas</a>
 					<ul>
 						<li><a href="#">Computadoras personales</a></li>
